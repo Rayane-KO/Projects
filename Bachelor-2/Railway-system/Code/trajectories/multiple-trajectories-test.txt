@@ -1,0 +1,10 @@
+T-1
+S-2-3/1
+1-5/stop
+finish
+T-2
+2-4/stop
+finish
+T-3
+1-2/stop
+finish

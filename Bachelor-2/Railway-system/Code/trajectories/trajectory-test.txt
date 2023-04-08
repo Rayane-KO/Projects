@@ -1,0 +1,17 @@
+T-1
+S-2-3/3
+S-23/2
+S-11/2
+S-10/1
+1-1/stop
+S-12/2
+-start
+S-5/1
+1-6/stop
+S-6/2
+-start
+2-4/stop
+-start
+S-20/1
+1-4/stop
+finish

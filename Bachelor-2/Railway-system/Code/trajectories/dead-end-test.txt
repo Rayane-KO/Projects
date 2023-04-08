@@ -1,0 +1,9 @@
+T-1
+-start
+S-26/1
+S-12/2
+2-3/stop
+-start
+S-11/2
+S-10/2
+finish
