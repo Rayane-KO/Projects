@@ -1,0 +1,3 @@
+C:/Users/rayan/OneDrive/Bureau/2BA-CS/Structuur van Computerprogramma's 2/Pre-project/cmake-build-debug/CMakeFiles/Pre_project.dir
+C:/Users/rayan/OneDrive/Bureau/2BA-CS/Structuur van Computerprogramma's 2/Pre-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rayan/OneDrive/Bureau/2BA-CS/Structuur van Computerprogramma's 2/Pre-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
