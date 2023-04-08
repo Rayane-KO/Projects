@@ -1,0 +1,4 @@
+/home/rayane/Downloads/Clion/Clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/rayane/Downloads/Clion/Clion/bin/ninja/linux/ninja -G Ninja -S /home/rayane/Desktop/GameOfLife -B /home/rayane/Desktop/GameOfLife/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rayane/Desktop/GameOfLife/cmake-build-debug

@@ -1,0 +1,3 @@
+/home/rayane/Desktop/GameOfLife/cmake-build-debug/CMakeFiles/GameOfLife.dir
+/home/rayane/Desktop/GameOfLife/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rayane/Desktop/GameOfLife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
