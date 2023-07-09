@@ -1,1 +1,0 @@
-("8.7" racket ("d0cb1a80b76d1279ba78b909be07ab6451204028" . "a8d9736432ad372ac1d2567b77cf33361088d1dc") (collects #"data" #"queue.rkt") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"udp.rkt"))
