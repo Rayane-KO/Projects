@@ -1,0 +1,1 @@
+("8.7" racket ("ef61229ed89e4d9180fce5b3b99fdd570e761bff" . "6ea66cd4141e8522631e1cbec98162f3229ab49b") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
