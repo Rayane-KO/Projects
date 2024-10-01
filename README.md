@@ -27,3 +27,6 @@ This project was made in racket. We had to make a railway system (with a Grafica
 
 6. SIAM  
 SIAM is a 2-player game (Rhinos vs Elephants) where the players should push a rock off of the board. Either animal can push a rock, but if you want to push an animal facing you, you have to be superior in numbers. We also added spells that you can use on the other player. This project was made in an object-oriented programming style using Scala.
+
+### 3rd bachelor
+1. 
