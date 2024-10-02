@@ -31,7 +31,7 @@ SIAM is a 2-player game (Rhinos vs Elephants) where the players should push a ro
 ### 3rd bachelor
 1. Parallellism
 In this project, we had to implement a parallel search engine. By inputting a word, it could retrieve the articles in which that word occurred.
-2. Distribution
+4. Distribution
 For this project, we had to implement a complete distributed system where multiple users could add, remove, and update articles. Users are also able to retrieve articles. This system ensures data integrity and security.
-3. ML_Project
+5. ML_Project
 For this machine learning project, we aimed to predict the power output of wind turbines based on given features. We began with exploratory data analysis and experimented with various models.
